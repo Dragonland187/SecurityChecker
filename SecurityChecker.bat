@@ -1,5 +1,5 @@
 @echo off
-set nome= Emilio
+set nome= Name
 color a
 set/p "Password= Inserire il codice di sicurezza:  "
 if %Password% == Example ( echo Bentornato %nome%! Ti auguro una buona giornata!
